@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.card-flex{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+#cardmb-3{
+  max-width: 540px;
+}
+
+.edde-button{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.edit-button{
+    border: none;
+    background-color: #4071ED;
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+}
+
+.delete-button{
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+}

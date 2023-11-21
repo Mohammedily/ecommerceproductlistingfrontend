@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.shopping{
+    display:  flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-family: 'Poppins', sans-serif;
+    color: #4071ED;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#card-mb-3{
+    max-width: 540px;
+}
+
+
+
+.qty-button{
+    display:  flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+
+.plusbutton{
+    background-color: #4071ED;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+}
+.minusbutton{
+    background-color: #4071ED;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+}
+
+.qty{
+    color: #4071ED;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+}
+
+.delete{
+    background-color: #4071ED;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    padding: 10px; 
+    margin-top: 10px;
+}
+
+
+
+.cart-empty{
+    display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     height: 90vh;
+}
+.cart-empty1{
+    color: #4071ED;
+    font-family: 'Poppins', sans-serif;
+    font-size: 33px;
+}
+
+.shopping-cart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+
+
+.shopping-cart{
+
+    margin-top: 30px;
+    font-size: 23px;
+    color: #4071ED;
+    font-family: 'Poppins', sans-serif;
+}
+
+.shopping-cart2{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.shopping-cart4{
+    background-color: #4071ED;
+    color: white;
+    font-size: 20px;
+    border: none;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+#card-text-1{
+    color: #4071ED;
+    font-size: 23px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#card-text-2{
+    color: #4071ED;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#card-text-3{
+    color: #4071ED;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.checkout{
+    margin-top: 30px;
+}
+
+.checkout-button{
+    background-color: #4071ED;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    border: none;
+    padding: 10px;
+}

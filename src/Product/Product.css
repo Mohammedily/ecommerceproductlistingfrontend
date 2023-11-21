@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+#card-text{
+    display:  flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    color: #4071ED; 
+}
+
+.cart{
+    border: none;
+    background-color: #4071ED;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+}
